@@ -30,7 +30,7 @@ Claudeborder又名AI云边，是性价比高的高速专线机场，开户即送
 - ⚡ **Hysteria2**：支持新一代 Hysteria2 协议
 - 🤖 **AI 服务**：支持 ChatGPT 等 AI 服务访问
 - 🎬 **流媒体**：支持主流流媒体平台
-- 📱 **全平台支持**：Windows / macOS / iOS / Android 等
+- 📱 **全平台支持**：Windows / macOS / iOS / Android 等，支持通用订阅。
 - ♾️ **不限设备**：一个账号可在多个设备使用
 - 🚫 **不限速**：套餐不限制连接速度
 - 👨‍💻 **人工客服**：提供 7×12 小时真人客服
